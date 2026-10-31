@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "siteName": "TOÁN HỌC 10–12",
+    "teacherName": "Giáo viên Toán",
+    "copyright": "© 2026 Giáo viên Toán · Bản quyền được bảo lưu."
+  },
+  "grades": [
+    {
+      "id": 10,
+      "label": "Toán lớp 10",
+      "description": "Củng cố nền tảng đại số, hình học và rèn tư duy giải toán.",
+      "status": "Đang cập nhật",
+      "chapters": [
+        {
+          "title": "Mệnh đề và tập hợp",
+          "description": "Mệnh đề, tập hợp và các phép toán trên tập hợp."
+        },
+        {
+          "title": "Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+          "description": "Biểu diễn miền nghiệm và vận dụng vào bài toán thực tế."
+        },
+        {
+          "title": "Hệ thức lượng trong tam giác",
+          "description": "Các hệ thức lượng và bài toán tam giác."
+        },
+        {
+          "title": "Vectơ",
+          "description": "Khái niệm vectơ, phép toán và ứng dụng."
+        },
+        {
+          "title": "Các số đặc trưng của mẫu số liệu",
+          "description": "Đọc, phân tích và mô tả dữ liệu thống kê."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "Toán lớp 11",
+      "description": "Học hàm số lượng giác, dãy số, giới hạn, đạo hàm và hình học không gian.",
+      "status": "Đang cập nhật",
+      "chapters": [
+        {
+          "title": "Hàm số lượng giác và phương trình lượng giác",
+          "description": "Giá trị lượng giác, đồ thị và phương trình cơ bản."
+        },
+        {
+          "title": "Dãy số, cấp số cộng và cấp số nhân",
+          "description": "Quy luật dãy số và bài toán cấp số."
+        },
+        {
+          "title": "Giới hạn và hàm số liên tục",
+          "description": "Tính giới hạn và xét tính liên tục."
+        },
+        {
+          "title": "Đường thẳng và mặt phẳng trong không gian",
+          "description": "Quan hệ song song và các cách xác định mặt phẳng."
+        },
+        {
+          "title": "Các số đặc trưng đo xu thế trung tâm",
+          "description": "Trung bình, trung vị, mốt và phân tích mẫu số liệu."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "Toán lớp 12",
+      "description": "Ôn tập các chuyên đề trọng tâm và luyện tập định hướng kỳ thi tốt nghiệp THPT.",
+      "status": "Đang cập nhật",
+      "chapters": [
+        {
+          "title": "Ứng dụng đạo hàm để khảo sát hàm số",
+          "description": "Đơn điệu, cực trị, tiệm cận và đồ thị hàm số."
+        },
+        {
+          "title": "Vectơ và hệ tọa độ trong không gian",
+          "description": "Tọa độ điểm, vectơ và các bài toán không gian."
+        },
+        {
+          "title": "Các số đặc trưng đo mức độ phân tán",
+          "description": "Khoảng biến thiên, khoảng tứ phân vị, phương sai và độ lệch chuẩn."
+        },
+        {
+          "title": "Nguyên hàm và tích phân",
+          "description": "Tìm nguyên hàm, tính tích phân và ứng dụng."
+        },
+        {
+          "title": "Phương pháp tọa độ trong không gian",
+          "description": "Phương trình mặt phẳng, đường thẳng và mặt cầu."
+        },
+        {
+          "title": "Xác suất có điều kiện",
+          "description": "Biến cố độc lập, xác suất có điều kiện và công thức nhân xác suất."
+        }
+      ]
+    }
+  ]
+}
